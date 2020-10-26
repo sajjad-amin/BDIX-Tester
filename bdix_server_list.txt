@@ -1,4 +1,6 @@
-https://samftp.com http://discoveryftp.net
+https://samftp.com
+http://discoveryftp.net
+http://movies.discoveryftp.net
 http://172.27.27.83
 http://172.27.27.84
 http://ftpbd.net
